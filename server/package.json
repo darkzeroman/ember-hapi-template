@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ember test",
+    "dev": "sh dev.sh",
+    "build": "sh build.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
