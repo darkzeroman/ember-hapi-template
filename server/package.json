@@ -9,5 +9,8 @@
     "build": "sh build.sh"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "hapi-mongodb": "^3.0.0"
+  }
 }
